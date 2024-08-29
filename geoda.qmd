@@ -1,0 +1,7 @@
+---
+title: "Geoda"
+format: html
+editor: visual
+---
+
+## GeoDa
